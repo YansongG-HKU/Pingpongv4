@@ -20,10 +20,10 @@ while not done:
 
     # Perform actions and get new states, rewards, and game completion status
     observation = ()
-    observation = env.step(action)
+    state, reward, done, truncated, info = env.step(action)
 
     # Print the contents of the observation
-    print(f"Observation: {observation}")
+    print(f"State: {state}, Reward: {reward}, Done: {done}, Truncated: {truncated}, Info: {info}")
 
     # Render the game screen in 'human' mode
     env.render()
