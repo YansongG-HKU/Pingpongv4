@@ -5,5 +5,5 @@ This is just to test if the programming environment is successfully configured. 
 Now RL.py and human_data.py are currently useful.
 Feel free to run human_data.py to build the data!
 
-This is a very simple intensive learning code that works properly. But please don't plagiarize it, because the model in this code has average performance and it's not my final code.
+But please don't plagiarize it, because the model in this code has average performance and it's not my final code.
 Please don't plagiarize, if you get caught, it's none of my business.
